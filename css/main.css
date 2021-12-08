@@ -1,0 +1,21 @@
+.nav-link.active {
+  background-color: #4621cc !important;
+  color: white !important;
+}
+
+.nav-link {
+color: #000 !important;
+}
+
+.btn-primary {
+background-color: #000 !important;
+color: #fff !important;
+}
+
+.p { 
+  background-color: #4621cc;
+}
+
+
+
+
